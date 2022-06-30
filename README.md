@@ -17,7 +17,7 @@
 <hr/>
 
 
-### :hammer_and_wrench: Melhor em :
+### :hammer_and_wrench: Preferências :
   <div>
   <!-- Java -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40" />&nbsp;
@@ -43,7 +43,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
  </div>
   
-### :fire: Meus dados :
+### Meus dados :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcosltc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
