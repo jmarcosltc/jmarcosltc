@@ -17,7 +17,7 @@
 <hr/>
 
 
-### :hammer_and_wrench: Domínio em :
+### :hammer_and_wrench: Melhor em :
   <div>
   <!-- Java -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40" />&nbsp;
@@ -36,9 +36,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" />&nbsp;
   <!-- Java -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="40" height="40" />&nbsp;
+
   <!-- Python -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" />&nbsp;
+
   <!-- Database -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
  </div>
