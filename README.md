@@ -81,7 +81,7 @@
   
 ### Linguagens :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcosltc)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcosltc" align="center" /></div>  
 
 ### Treféus :
-[![Trophys](https://github-profile-trophy.vercel.app/?username=jmarcosltc)
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=jmarcosltc" align="center" /></div> 
