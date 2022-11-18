@@ -1,7 +1,7 @@
 ### <div align="center">Meu nome é João Marcos, atualmente estudando Sistemas de Informação na PUC Minas.</div>  
   
 
-- 🌱 Aprendendo Cloud Computing e Backend -> Atualmente estudando TypeScript e C#
+- 🌱 Aprendendo Cloud Computing e Backend -> Atualmente estudando TypeScript e Java
   
 
 - ⚡ Futuro backend developer  
