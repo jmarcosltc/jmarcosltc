@@ -67,9 +67,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
 </div>
 
-###
-
-<img align="right" height="150" src=""  />
 
 ###
 
