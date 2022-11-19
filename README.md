@@ -55,7 +55,7 @@
 
 ###
 
-<p align="center">TECHNOLOGIES I'M LEARNING</p>
+<p align="center">TECHNOLOGIES I'M CURRENTLY LEARNING</p>
 
 ###
 
