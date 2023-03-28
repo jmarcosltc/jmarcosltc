@@ -17,7 +17,7 @@
 </div>
 
 ###
-<divalign="center">
+<div align="center">
 [![Joao Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmarcosltc&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 ###
