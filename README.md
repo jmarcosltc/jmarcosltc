@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  # 📊 Stats:
+📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jmarcosltc&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jmarcosltc&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcosltc&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
