@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋!! My name is João Marcos and I'm a developer, from Brazil.</h2>
+<h2 align="center">Hello 👋!! My name is João Marcos and I'm a developer, from Brazil.</h2>
 
 ###
 
@@ -67,6 +67,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="52" alt="oracle logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
 </div>
+
+<h2 align="center">STATS</h2>
 
 <div align="center">
   
