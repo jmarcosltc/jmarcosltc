@@ -18,12 +18,6 @@
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=jmarcosltc&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=jmarcosltc&theme=tokyonight&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcosltc&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 ![](https://github-profile-trophy.vercel.app/?username=jmarcosltc&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -72,4 +66,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="52" alt="oracle logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
+</div>
+
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=jmarcosltc&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=jmarcosltc&theme=tokyonight&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcosltc&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&  layout=compact)  
+
 </div>
