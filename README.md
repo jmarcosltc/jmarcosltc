@@ -73,6 +73,8 @@
 <h2 align="center">STATS</h2>
 
 <div align="center">
+ 
+  <a href="https://wakatime.com/@c3d77e02-c287-4dd3-9225-13e13c258ca9"><img src="https://wakatime.com/badge/user/c3d77e02-c287-4dd3-9225-13e13c258ca9.svg" alt="Total time coded since Oct 21 2022" /></a>
   
 ![](https://github-readme-stats.vercel.app/api?username=jmarcosltc&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
